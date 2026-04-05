@@ -64,4 +64,86 @@ The dashboard provides actionable insights into the supermarket’s **sales tren
 
 ---
 
+# Electric Vehicle Registration Dashboard (Tableau)
+
+
+
+## Project Overview
+This project presents an interactive **Electric Vehicle Registration Dashboard** built using **Tableau** to analyze EV adoption patterns in **Washington State** from **2011 to 2024**. The dashboard explores registration growth, vehicle type composition, geographic distribution, and manufacturer performance to identify key trends in the state’s electric vehicle market.
+
+The project workflow includes:
+
+- Data cleaning and preparation  
+- Data transformation  
+- Data analysis  
+- Dashboard design and development  
+- Interactive data visualization  
+
+The dashboard was designed to support **trend analysis**, **market comparison**, and **location-based insights** into EV adoption.
+
+---
+
+## Tools & Technologies
+- **Tableau**
+- **Data Cleaning & Transformation**
+- **Interactive Dashboard Design**
+- **Geographic Visualization**
+- **Trend & Comparative Analysis**
+
+---
+
+## Dashboard Visualizations
+
+### EV Registration Trend by Vehicle Type
+A line chart showing EV registration growth from **2011 to 2024** across:
+
+- **Battery Electric Vehicles (BEV)**
+- **Plug-in Hybrid Electric Vehicles (PHEV)**
+- **Total EV Registrations**
+
+This visualization highlights the acceleration of EV adoption over time and the widening gap between BEV and PHEV registrations.
+
+---
+
+### EV Registrations by County
+A filled map showing the geographic distribution of EV registrations across counties in **Washington State**.
+
+This helps identify:
+- High-adoption counties
+- Regional concentration of EV ownership
+- Areas with relatively lower EV penetration
+
+---
+
+### Top 15 EV Brands in Washington State
+A horizontal bar chart ranking the top EV brands by registration volume.
+
+This visualization supports brand-level comparison and reveals the degree of market concentration among major EV manufacturers.
+
+---
+
+### BEV vs PHEV Share
+A pie chart comparing the registration share of:
+
+- **BEV Vehicles**
+- **PHEV Vehicles**
+
+This provides a high-level view of vehicle type preference within the state’s EV market.
+
+---
+
+## Key Metrics & Insights
+
+- Total EV registrations increased significantly between **2011 and 2024**, with the strongest growth occurring after **2020**.
+- **BEVs dominate the market**, with approximately **79%** of the market share. BEVs represent the majority of EV registrations, showing a stronger market preference for fully electric vehicles over plug-in hybrids.
+- **Tesla** ranks as the leading EV brand in Washington State by a substantial margin.
+- EV registrations are concentrated in several counties, indicating uneven adoption across the state.
+
+---
+
+
+
+
+
+
 
